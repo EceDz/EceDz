@@ -1,4 +1,5 @@
 ## Hi Ece here 👋
+CS student who creates bugs professionally and fixes them occasionally.
 
 <!--
 **EceDz/EceDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
